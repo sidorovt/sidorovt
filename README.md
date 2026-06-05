@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
-<h3 align="center">An ambitious data science student from Russia</h3>
+<h3 align="center">A data science student obsessed with metrics and solving real business problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidorovt&label=Profile%20views&color=0e75b6&style=flat" alt="sidorovt" /> </p>
 
